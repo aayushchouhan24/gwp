@@ -1,4 +1,4 @@
-# Generate Webpack - _Your Webpack Wizard!_
+# Generate Webpack -*Your Webpack Wizard!*
 
 ![Generate-Webpack Logo](https://cdn.jsdelivr.net/gh/aayushchouhan24/webpack-generator@master/logo-banner.png)
 

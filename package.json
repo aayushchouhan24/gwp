@@ -1,7 +1,7 @@
 {
     "name": "gwp",
-    "version": "0.0.1",
-    "description": "A command-line tool for creating projects with default or specified names and types.",
+    "version": "1.0.0",
+    "description": "A Webpack anf ThreeJS Project Generator",
     "main": "lib/index.js",
     "bin": {
         "gwp": "./bin/gwp.js"
@@ -16,10 +16,7 @@
         "path": "^0.12.7",
         "three": "^0.161.0"
     },
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "author": "Your Name",
+    "author": "Aayush Chouhan",
     "license": "MIT",
     "devDependencies": {
         "@babel/core": "^7.23.9",
